@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('This is :green[My Assignment]')
+st.title('This is :green[My Deploy app]')
 st.title(':red[_Streamlit_] is :blue[cool] :sunglasses:')
 
 number = st.number_input("Insert a number")
